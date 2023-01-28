@@ -1,0 +1,28 @@
+{
+    'hours': [
+      {'hour': '12:00', 'period': 'a.m.'},
+      {'hour': '1:00', 'period': 'a.m.'},
+      {'hour': '2:00', 'period': 'a.m.'},
+      {'hour': '3:00', 'period': 'a.m.'},
+      {'hour': '4:00', 'period': 'a.m.'},
+      {'hour': '5:00', 'period': 'a.m.'},
+      {'hour': '6:00', 'period': 'a.m.'},
+      {'hour': '7:00', 'period': 'a.m.'},
+      {'hour': '8:00', 'period': 'a.m.'},
+      {'hour': '9:00', 'period': 'a.m.'},
+      {'hour': '10:00', 'period': 'a.m.'},
+      {'hour': '11:00', 'period': 'a.m.'},
+      {'hour': '12:00', 'period': 'p.m.'},
+      {'hour': '1:00', 'period': 'p.m.'},
+      {'hour': '2:00', 'period': 'p.m.'},
+      {'hour': '3:00', 'period': 'p.m.'},
+      {'hour': '4:00', 'period': 'p.m.'},
+      {'hour': '5:00', 'period': 'p.m.'},
+      {'hour': '6:00', 'period': 'p.m.'},
+      {'hour': '7:00', 'period': 'p.m.'},
+      {'hour': '8:00', 'period': 'p.m.'},
+      {'hour': '9:00', 'period': 'p.m.'},
+      {'hour': '10:00', 'period': 'p.m.'},
+      {'hour': '11:00', 'period': 'p.m.'},
+    ]
+  }
